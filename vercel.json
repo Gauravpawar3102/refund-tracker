@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/graphql",
+      "destination": "https://www.futard.io/api/graphql"
+    }
+  ]
+}
